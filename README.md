@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm **Côme Lemargue**, working as a Corporate IT Support Technician at Datadog.
+This is a corporate account. If you want to check my personal projects, feel free to go to [my other profile](https://www.github.com/Thesalmar)
+
+Thank you!
+
+⚡
+---
+Fun fact : My previous company's office is literally next door to our Paris office
+
 <!--
 **clemargue-ddog/clemargue-ddog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
