@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Côme Lemargue**, working as a Corporate IT Support Technician at Datadog.
+I'm **Côme Lemargue**, working as a Enterprise IT Support Technician at Datadog.
 This is a corporate account. If you want to check my personal projects, feel free to go to [my other profile](https://www.github.com/Thesalmar)
 
 Thank you!
